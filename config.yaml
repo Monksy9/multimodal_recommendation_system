@@ -1,0 +1,4 @@
+img_path: "images/0927560002.jpg"
+user_input: "**I want accessories for this dress**."
+articles_csv: "articles.csv"
+embeddings_pickle: "embeddings.pickle"
